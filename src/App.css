@@ -1,0 +1,30 @@
+*{
+  margin: 0px;
+  padding:20px 30px 10px 20px;
+  box-shadow: 10px solid black;
+  
+  
+}
+
+.container{
+  box-shadow: 10px solid black;
+  display: flex;
+  flex-direction: row;
+}
+.hello{
+  padding: 0px;
+  border-radius: 15px; 
+  border:1px solid #bdbdbd;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
+   border: 10px;
+}
+.circle{
+  border-radius: 250%;
+}
+.light-row {
+  background-color: rgb(242, 255, 254); 
+}
+
+.white-row {
+  background-color: white; 
+}
